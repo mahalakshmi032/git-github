@@ -1,0 +1,6 @@
+
+git commit
+
+git pull
+git push
+git add origin
